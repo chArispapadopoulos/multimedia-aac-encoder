@@ -30,7 +30,6 @@ A full description of the implementation and a discussion of the results are giv
 │   └── TableB219.mat
 ├── report/
 │   ├── Multimedia_Systems_Assignment_2025-2026_Report.pdf
-│   └── latex/                  # LaTeX source and figures of the report
 ├── requirements.txt
 └── README.md
 ```
