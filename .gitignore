@@ -1,0 +1,16 @@
+# Audio files (test signal and decoded outputs)
+*.wav
+
+# Encoded bitstream produced by level 3
+encoded_lvl3.mat
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.synctex.gz
